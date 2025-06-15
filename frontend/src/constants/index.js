@@ -16,5 +16,5 @@ export const THEMES = [
     "dim",
     "nord",
     "sunset",
-    "silk"
+    "silk",
 ];
